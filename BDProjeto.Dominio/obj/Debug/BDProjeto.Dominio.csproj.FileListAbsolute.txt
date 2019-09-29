@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\User\source\repos\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\User\source\repos\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.dll
+C:\Users\User\source\repos\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.pdb
+C:\Users\User\source\repos\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.csprojAssemblyReference.cache
