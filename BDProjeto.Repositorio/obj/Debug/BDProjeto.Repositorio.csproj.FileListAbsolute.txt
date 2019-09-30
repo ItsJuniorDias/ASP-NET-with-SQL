@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\User\source\repos\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\User\source\repos\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\Users\User\source\repos\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb
