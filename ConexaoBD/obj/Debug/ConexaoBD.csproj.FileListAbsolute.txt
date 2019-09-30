@@ -1,0 +1,14 @@
+C:\Users\User\source\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\User\source\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\User\source\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Users\User\source\ConexaoBD\obj\Debug\ConexaoBD.csprojAssemblyReference.cache
+C:\Users\User\source\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\User\source\ConexaoBD\obj\Debug\ConexaoBD.pdb
+C:\Users\User\source\ConexaoBD\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\User\source\ConexaoBD\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\User\source\ConexaoBD\obj\Debug\ConexaoBD.csproj.CopyComplete
+C:\Users\User\source\ConexaoBD\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\User\source\ConexaoBD\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\User\source\ConexaoBD\bin\Debug\DPProjeto.Aplicacao.dll
+C:\Users\User\source\ConexaoBD\bin\Debug\DPProjeto.Aplicacao.pdb
