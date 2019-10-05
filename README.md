@@ -4,9 +4,9 @@
 
  - This is a customer registration system for an ecommerce
 
-## why
+## Why ?
 
-- This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
+This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
 Email-me: juniordias_@live.com;
 
